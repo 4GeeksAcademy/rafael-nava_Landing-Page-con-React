@@ -31,3 +31,13 @@ font-size: larger;}
         margin: 0;
         padding: 2px;
 }
+
+#footer{
+    display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 50px;
+  color: white;
+  font-size: small;
+  text-align: center;
+}
